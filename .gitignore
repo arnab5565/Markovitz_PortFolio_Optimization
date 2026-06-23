@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Test caches
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables
+.env
